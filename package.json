@@ -1,0 +1,16 @@
+{
+  "name": "proyetofinal-electiva2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jsdom": "^26.1.0",
+    "vitest": "^3.1.1"
+  }
+}
