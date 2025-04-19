@@ -1,7 +1,7 @@
 const { JSDOM } = require('jsdom');
 const fs = require('fs');
 
-const html = fs.readFileSync('./src/index.html', 'utf-8');
+const html = fs.readFileSync('index.html', 'utf-8');
 
 describe('HTML content', () => {
   it('contiene Hola Mundo en h1', () => {
